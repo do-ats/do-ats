@@ -3,7 +3,8 @@
 If you'd like to engage with me for positions, please do the following 2 steps:
 1. Create a new private repository with your Github account.
 2. Add `do-ats` as a collaborator to this new private repository.
-3. Sit back and I'll reach out to you via an Issue on your new private repository.
+
+In about a minute, I'll reach out to you via an Issue on your new private repository.
 
 <!--
 **do-ats/do-ats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
